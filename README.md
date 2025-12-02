@@ -1,9 +1,9 @@
 # NivkhKurng
 
-## Прототип нивхского корпуса 
-## Поисковый алгоритм взят от [RuConst](https://github.com/grapaul/Ru_Const) и на данный момент дополняется новым функционалом
-## Активные участники: [Даша Савина](https://github.com/lunadunkel), [Эля Измайлова](https://github.com/el-izm), [Ева Гогуа](https://github.com/evagogua) при участии [Сергея Шевелева]() https://github.com/BlueDanube7
-## Ниже инструкция по пользованию, более подробно про синтаксис - см. [RuConst](https://github.com/grapaul/Ru_Const); синтаксической разметки в NivkhKurng нет (**NB**)
+#### Прототип нивхского корпуса 
+#### Поисковый алгоритм взят от [RuConst](https://github.com/grapaul/Ru_Const) и на данный момент дополняется новым функционалом
+#### Активные участники: [Даша Савина](https://github.com/lunadunkel), [Эля Измайлова](https://github.com/el-izm), [Ева Гогуа](https://github.com/evagogua) при участии [Сергея Шевелева](https://github.com/BlueDanube7)
+#### Ниже инструкция по пользованию, более подробно про синтаксис - см. [RuConst](https://github.com/grapaul/Ru_Const); синтаксической разметки в NivkhKurng нет (**NB**)
 
 
 
