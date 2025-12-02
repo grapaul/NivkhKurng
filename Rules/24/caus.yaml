@@ -1,0 +1,67 @@
+ExampleName: Caus
+
+Priority: 1
+
+SubExamples:
+
+    - SubExample:
+        Name: Prog
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Prog, Voice=Caus
+
+    - SubExample:
+        Name: Compl
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Compl, Voice=Caus
+
+    - SubExample:
+        Name: Usit
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Usit, Voice=Caus
+
+    - SubExample:
+        Name: Res
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Res, Voice=Caus
+
+    - SubExample:
+        Name: Hab
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Hab, Voice=Caus
+
+
+    - SubExample:
+        Name: Fut
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Tense=Fut, Voice=Caus
+

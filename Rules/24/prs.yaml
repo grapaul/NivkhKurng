@@ -1,0 +1,56 @@
+ExampleName: Pres
+
+Priority: 1
+
+SubExamples:
+
+    - SubExample:
+        Name: Prog
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Prog, Tense=Pres_Aor
+
+    - SubExample:
+        Name: Compl
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Compl, Tense=Pres_Aor
+
+    - SubExample:
+        Name: Usit
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Usit, Tense=Pres_Aor
+
+    - SubExample:
+        Name: Res
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Res, Tense=Pres_Aor
+
+    - SubExample:
+        Name: Hab
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Hab, Tense=Pres_Aor
+

@@ -1,0 +1,57 @@
+ExampleName: Lexical
+
+Priority: 1
+
+SubExamples:
+
+    - SubExample:
+        Name: BearH
+
+        Participants:
+          - Obligatory: bear #, fish
+
+        Items:
+          - A: bear
+            # Lex: чхыф
+            # LexNonHead: чхыф
+            # Wordform: чхыфку
+            # WordformNonHead: чхыфку
+            # RussianLex: медведь
+            RussianLexNonHead: медведь
+            # RussianWordform: медведей
+            Morph: NOUN
+          # - B: fish
+          #   # Lex: чо
+          #   # RussianLex: рыба
+          #   # RussianWordform: рыбу
+          #   Morph: NOUN
+
+
+    - SubExample:
+        Name: BearD
+
+        Participants:
+          - Obligatory: bear #, fish
+
+        Items:
+          - A: bear
+            # Lex: чхыф
+            # LexNonHead: чхыф
+            # Wordform: чхыфку
+            # WordformNonHead: чхыфку
+            # RussianLex: медведь
+            RussianLex: медведь
+            # RussianWordform: медведей
+            Morph: NOUN
+          # - B: fish
+          #   # Lex: чо
+          #   # RussianLex: рыба
+          #   # RussianWordform: рыбу
+          #   Morph: NOUN
+
+
+
+
+
+
+

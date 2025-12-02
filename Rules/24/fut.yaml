@@ -1,0 +1,77 @@
+ExampleName: Fut
+
+Priority: 1
+
+SubExamples:
+
+    - SubExample:
+        Name: Prog
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Prog, Tense=Fut
+
+    - SubExample:
+        Name: Compl
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Compl, Tense=Fut
+
+    - SubExample:
+        Name: Usit
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Usit, Tense=Fut
+
+    - SubExample:
+        Name: Res
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Res, Tense=Fut
+
+    - SubExample:
+        Name: Hab
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, Aspect=Hab, Tense=Fut
+
+    - SubExample:
+        Name: Nmn
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, VerbForm=Vnoun, Tense=Fut
+
+    - SubExample:
+        Name: Cnv
+
+        Participants:
+          - Obligatory: V
+
+        Items:
+          - A: V
+            Morph: VERB, VerbForm=Conv, Tense=Fut
+
+
