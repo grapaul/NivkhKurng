@@ -15,7 +15,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -35,7 +35,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -55,7 +55,7 @@
                         "id": "1",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -72,7 +72,7 @@
                         "id": "2",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -122,7 +122,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -156,32 +156,13 @@
                   },
                   {
                         "itoken": "4",
-                        "token": "п’",
-                        "lemma": "п’",
-                        "tagsets": [
-                              [
-                                    "PART",
-                                    "Clitic=Yes"
-                              ]
-                        ],
-                        "parent_token_index": "-",
-                        "edge_type": "-",
-                        "constituent": {
-                              "name": "-",
-                              "is_head": false,
-                              "id": "-"
-                        },
-                        "translation": "REFL"
-                  },
-                  {
-                        "itoken": "5",
-                        "token": "ӈафӄ",
+                        "token": "п’ӈафӄ",
                         "lemma": "ӈафӄ",
                         "tagsets": [
                               [
                                     "NOUN",
                                     "Reflex=Yes",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -195,7 +176,7 @@
                         "translation": "друг"
                   },
                   {
-                        "itoken": "6",
+                        "itoken": "5",
                         "token": "ӈафӄроӽ",
                         "lemma": "ӈафӄ",
                         "tagsets": [
@@ -215,7 +196,7 @@
                         "translation": "друг"
                   },
                   {
-                        "itoken": "7",
+                        "itoken": "6",
                         "token": "мяӽр",
                         "lemma": "мя",
                         "tagsets": [
@@ -234,7 +215,7 @@
                         "translation": "два"
                   },
                   {
-                        "itoken": "8",
+                        "itoken": "7",
                         "token": "адғун:",
                         "lemma": "а",
                         "tagsets": [
@@ -254,7 +235,7 @@
                         "translation": "быть.таким"
                   },
                   {
-                        "itoken": "9",
+                        "itoken": "8",
                         "token": "т’ад",
                         "lemma": "т’ад",
                         "tagsets": [
@@ -272,13 +253,13 @@
                         "translation": "который"
                   },
                   {
-                        "itoken": "10",
+                        "itoken": "9",
                         "token": "эр̌ӄӈ",
                         "lemma": "эр̌ӄӈ",
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -292,7 +273,7 @@
                         "translation": "сторона"
                   },
                   {
-                        "itoken": "11",
+                        "itoken": "10",
                         "token": "тик",
                         "lemma": "тик",
                         "tagsets": [
@@ -310,7 +291,7 @@
                         "translation": "долго"
                   },
                   {
-                        "itoken": "12",
+                        "itoken": "11",
                         "token": "мор̌кар̌",
                         "lemma": "мор̌ка",
                         "tagsets": [
@@ -331,7 +312,7 @@
                         "translation": "быть.живым"
                   },
                   {
-                        "itoken": "13",
+                        "itoken": "12",
                         "token": "ӿунвид",
                         "lemma": "ӿунви",
                         "tagsets": [
@@ -373,7 +354,7 @@
                         "id": "2",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -405,39 +386,23 @@
                         "name": "-",
                         "id": "4",
                         "tags": [
-                              "PART",
-                              "Clitic=Yes"
+                              "NOUN",
+                              "Reflex=Yes",
+                              "Case=Abs",
+                              "Number=Sing"
                         ],
                         "tokens": [
                               [
-                                    "п’"
+                                    "п’ӈафӄ"
                               ]
                         ],
                         "head_id": "-",
-                        "text": "п’",
+                        "text": "п’ӈафӄ",
                         "length": 1
                   },
                   {
                         "name": "-",
                         "id": "5",
-                        "tags": [
-                              "NOUN",
-                              "Reflex=Yes",
-                              "Case=Null",
-                              "Number=Sing"
-                        ],
-                        "tokens": [
-                              [
-                                    "ӈафӄ"
-                              ]
-                        ],
-                        "head_id": "-",
-                        "text": "ӈафӄ",
-                        "length": 1
-                  },
-                  {
-                        "name": "-",
-                        "id": "6",
                         "tags": [
                               "NOUN",
                               "Case=Dat",
@@ -454,7 +419,7 @@
                   },
                   {
                         "name": "-",
-                        "id": "7",
+                        "id": "6",
                         "tags": [
                               "NUM",
                               "Classifier=Yes"
@@ -470,7 +435,7 @@
                   },
                   {
                         "name": "-",
-                        "id": "8",
+                        "id": "7",
                         "tags": [
                               "DET",
                               "Mood=Ind",
@@ -487,7 +452,7 @@
                   },
                   {
                         "name": "-",
-                        "id": "9",
+                        "id": "8",
                         "tags": [
                               "PRON"
                         ],
@@ -502,10 +467,10 @@
                   },
                   {
                         "name": "-",
-                        "id": "10",
+                        "id": "9",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -519,7 +484,7 @@
                   },
                   {
                         "name": "-",
-                        "id": "11",
+                        "id": "10",
                         "tags": [
                               "ADV"
                         ],
@@ -534,7 +499,7 @@
                   },
                   {
                         "name": "-",
-                        "id": "12",
+                        "id": "11",
                         "tags": [
                               "VERB",
                               "VerbForm=Conv",
@@ -552,7 +517,7 @@
                   },
                   {
                         "name": "-",
-                        "id": "13",
+                        "id": "12",
                         "tags": [
                               "VERB",
                               "Mood=Ind",
@@ -605,7 +570,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -644,7 +609,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -737,7 +702,7 @@
                         "id": "2",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -770,7 +735,7 @@
                         "id": "4",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -849,7 +814,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -887,7 +852,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -1022,32 +987,13 @@
                   },
                   {
                         "itoken": "10",
-                        "token": "п’",
-                        "lemma": "п’",
-                        "tagsets": [
-                              [
-                                    "PART",
-                                    "Clitic=Yes"
-                              ]
-                        ],
-                        "parent_token_index": "-",
-                        "edge_type": "-",
-                        "constituent": {
-                              "name": "-",
-                              "is_head": false,
-                              "id": "-"
-                        },
-                        "translation": "REFL"
-                  },
-                  {
-                        "itoken": "11",
-                        "token": "ӈафӄ",
+                        "token": "п’ӈафӄ",
                         "lemma": "ӈафӄ",
                         "tagsets": [
                               [
                                     "NOUN",
                                     "Reflex=Yes",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -1061,7 +1007,7 @@
                         "translation": "друг"
                   },
                   {
-                        "itoken": "12",
+                        "itoken": "11",
                         "token": "нр̌ыба",
                         "lemma": "нр̌ы",
                         "tagsets": [
@@ -1081,7 +1027,7 @@
                         "translation": "видеть"
                   },
                   {
-                        "itoken": "13",
+                        "itoken": "12",
                         "token": "эӽӈавра",
                         "lemma": "эӽӈав",
                         "tagsets": [
@@ -1108,7 +1054,7 @@
                         "id": "1",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -1140,7 +1086,7 @@
                         "id": "3",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -1258,39 +1204,23 @@
                         "name": "-",
                         "id": "10",
                         "tags": [
-                              "PART",
-                              "Clitic=Yes"
+                              "NOUN",
+                              "Reflex=Yes",
+                              "Case=Abs",
+                              "Number=Sing"
                         ],
                         "tokens": [
                               [
-                                    "п’"
+                                    "п’ӈафӄ"
                               ]
                         ],
                         "head_id": "-",
-                        "text": "п’",
+                        "text": "п’ӈафӄ",
                         "length": 1
                   },
                   {
                         "name": "-",
                         "id": "11",
-                        "tags": [
-                              "NOUN",
-                              "Reflex=Yes",
-                              "Case=Null",
-                              "Number=Sing"
-                        ],
-                        "tokens": [
-                              [
-                                    "ӈафӄ"
-                              ]
-                        ],
-                        "head_id": "-",
-                        "text": "ӈафӄ",
-                        "length": 1
-                  },
-                  {
-                        "name": "-",
-                        "id": "12",
                         "tags": [
                               "VERB",
                               "VerbForm=Conv",
@@ -1307,7 +1237,7 @@
                   },
                   {
                         "name": "-",
-                        "id": "13",
+                        "id": "12",
                         "tags": [
                               "VERB",
                               "Coordinating=Yes",
@@ -1342,7 +1272,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -1380,7 +1310,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -1419,7 +1349,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -1439,7 +1369,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -1519,7 +1449,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -1646,7 +1576,7 @@
                         "id": "1",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -1678,7 +1608,7 @@
                         "id": "3",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -1711,7 +1641,7 @@
                         "id": "5",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -1728,7 +1658,7 @@
                         "id": "6",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -1796,7 +1726,7 @@
                         "id": "10",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -1919,7 +1849,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -1959,7 +1889,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -1998,7 +1928,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -2058,7 +1988,7 @@
                               [
                                     "NOUN",
                                     "Number=Plur",
-                                    "Case=Null"
+                                    "Case=Abs"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -2098,7 +2028,7 @@
                         "id": "1",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -2132,7 +2062,7 @@
                         "id": "3",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -2165,7 +2095,7 @@
                         "id": "5",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -2216,7 +2146,7 @@
                         "tags": [
                               "NOUN",
                               "Number=Plur",
-                              "Case=Null"
+                              "Case=Abs"
                         ],
                         "tokens": [
                               [
@@ -2264,7 +2194,7 @@
                         "tagsets": [
                               [
                                     "NOUN",
-                                    "Case=Null",
+                                    "Case=Abs",
                                     "Number=Sing"
                               ]
                         ],
@@ -2305,7 +2235,7 @@
                               [
                                     "NOUN",
                                     "Number=Plur",
-                                    "Case=Null"
+                                    "Case=Abs"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -2342,7 +2272,7 @@
                         "id": "1",
                         "tags": [
                               "NOUN",
-                              "Case=Null",
+                              "Case=Abs",
                               "Number=Sing"
                         ],
                         "tokens": [
@@ -2377,7 +2307,7 @@
                         "tags": [
                               "NOUN",
                               "Number=Plur",
-                              "Case=Null"
+                              "Case=Abs"
                         ],
                         "tokens": [
                               [
