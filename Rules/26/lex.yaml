@@ -1,0 +1,18 @@
+ExampleName: Lexical
+
+Priority: 1
+
+SubExamples:
+
+    - SubExample:
+        Name: L
+
+        Participants:
+          - Obligatory: L
+
+        Items:
+          - A: L
+            RussianLexNonHead: человек
+            Morph: NOUN
+
+
