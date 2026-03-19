@@ -1739,8 +1739,8 @@
                               [
                                     "VERB",
                                     "VerbForm=Conv",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -1883,8 +1883,8 @@
                         "tags": [
                               "VERB",
                               "VerbForm=Conv",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -2090,8 +2090,8 @@
                               [
                                     "VERB",
                                     "Coordinating=Yes",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -2151,8 +2151,8 @@
                               [
                                     "VERB",
                                     "Emphatic=Yes",
-                                    "Person=3",
-                                    "Number=Sing",
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing",
                                     "Tense=Pres_Aor"
                               ]
                         ],
@@ -2356,8 +2356,8 @@
                         "tags": [
                               "VERB",
                               "Coordinating=Yes",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -2408,8 +2408,8 @@
                         "tags": [
                               "VERB",
                               "Emphatic=Yes",
-                              "Person=3",
-                              "Number=Sing",
+                              "Person[subj]=3",
+                              "Number[subj]=Sing",
                               "Tense=Pres_Aor"
                         ],
                         "tokens": [
@@ -2982,8 +2982,8 @@
                               [
                                     "VERB",
                                     "Coordinating=Yes",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -3023,8 +3023,8 @@
                               [
                                     "VERB",
                                     "Coordinating=Yes",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -3098,8 +3098,8 @@
                         "tags": [
                               "VERB",
                               "Coordinating=Yes",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -3133,8 +3133,8 @@
                         "tags": [
                               "VERB",
                               "Coordinating=Yes",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -5136,8 +5136,8 @@
                               [
                                     "VERB",
                                     "Mood=Imp",
-                                    "Person=2",
-                                    "Number=Sing"
+                                    "Person[subj]=2",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -5532,8 +5532,8 @@
                         "tags": [
                               "VERB",
                               "Mood=Imp",
-                              "Person=2",
-                              "Number=Sing"
+                              "Person[subj]=2",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -6006,9 +6006,9 @@
                         "tagsets": [
                               [
                                     "VERB",
-                                    "Number=Plur",
+                                    "Number[subj]=Plur",
                                     "Coordinating=Yes",
-                                    "Person=3"
+                                    "Person[subj]=3"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -6190,9 +6190,9 @@
                         "id": "8",
                         "tags": [
                               "VERB",
-                              "Number=Plur",
+                              "Number[subj]=Plur",
                               "Coordinating=Yes",
-                              "Person=3"
+                              "Person[subj]=3"
                         ],
                         "tokens": [
                               [
@@ -6353,8 +6353,8 @@
                         "tagsets": [
                               [
                                     "VERB",
-                                    "Person=3",
-                                    "Number=Sing",
+                                    "Person[obj]=3",
+                                    "Number[obj]=Sing",
                                     "Mood=Des",
                                     "Mood=Ind",
                                     "Tense=Pres_Aor"
@@ -6457,8 +6457,8 @@
                         "id": "6",
                         "tags": [
                               "VERB",
-                              "Person=3",
-                              "Number=Sing",
+                              "Person[obj]=3",
+                              "Number[obj]=Sing",
                               "Mood=Des",
                               "Mood=Ind",
                               "Tense=Pres_Aor"
@@ -6552,7 +6552,7 @@
                         "tagsets": [
                               [
                                     "VERB",
-                                    "Number=Plur",
+                                    "Number[subj]=Plur",
                                     "Case=Dat",
                                     "Case=Com"
                               ]
@@ -6798,7 +6798,7 @@
                         "id": "4",
                         "tags": [
                               "VERB",
-                              "Number=Plur",
+                              "Number[subj]=Plur",
                               "Case=Dat",
                               "Case=Com"
                         ],
@@ -7055,7 +7055,7 @@
                         "tagsets": [
                               [
                                     "VERB",
-                                    "Number=Plur"
+                                    "Number[subj]=Plur"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -7107,7 +7107,7 @@
                         "translation": "помогать"
                   },
                   {
-                        "itoken": "8",
+                        "itoken": "9",
                         "token": "парак",
                         "lemma": "пара",
                         "tagsets": [
@@ -7266,7 +7266,7 @@
                         "id": "5",
                         "tags": [
                               "VERB",
-                              "Number=Plur"
+                              "Number[subj]=Plur"
                         ],
                         "tokens": [
                               [
@@ -7312,7 +7312,7 @@
                   },
                   {
                         "name": "-",
-                        "id": "8",
+                        "id": "9",
                         "tags": [
                               "NOUN",
                               "VerbForm=Vnoun",
@@ -7483,8 +7483,8 @@
                               [
                                     "VERB",
                                     "VerbForm=Conv",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -7609,8 +7609,8 @@
                         "tags": [
                               "VERB",
                               "VerbForm=Conv",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -7902,8 +7902,8 @@
                         "tagsets": [
                               [
                                     "VERB",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[obj]=3",
+                                    "Number[obj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -7935,7 +7935,7 @@
                         "translation": "помогать"
                   },
                   {
-                        "itoken": "5",
+                        "itoken": "6",
                         "token": "парак",
                         "lemma": "пара",
                         "tagsets": [
@@ -8014,8 +8014,8 @@
                         "id": "3",
                         "tags": [
                               "VERB",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[obj]=3",
+                              "Number[obj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -8044,7 +8044,7 @@
                   },
                   {
                         "name": "-",
-                        "id": "5",
+                        "id": "6",
                         "tags": [
                               "NOUN",
                               "VerbForm=Vnoun",
@@ -8233,8 +8233,8 @@
                               [
                                     "VERB",
                                     "VerbForm=Conv",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -8255,8 +8255,8 @@
                                     "VERB",
                                     "Voice=Caus",
                                     "VerbForm=Conv",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -8334,8 +8334,8 @@
                               [
                                     "VERB",
                                     "Coordinating=Yes",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -8397,8 +8397,8 @@
                               [
                                     "VERB",
                                     "VerbForm=Conv",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -8480,8 +8480,8 @@
                               [
                                     "VERB",
                                     "Coordinating=Yes",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -8634,8 +8634,8 @@
                         "tags": [
                               "VERB",
                               "VerbForm=Conv",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -8653,8 +8653,8 @@
                               "VERB",
                               "Voice=Caus",
                               "VerbForm=Conv",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -8720,8 +8720,8 @@
                         "tags": [
                               "VERB",
                               "Coordinating=Yes",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -8774,8 +8774,8 @@
                         "tags": [
                               "VERB",
                               "VerbForm=Conv",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -8845,8 +8845,8 @@
                         "tags": [
                               "VERB",
                               "Coordinating=Yes",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -9296,8 +9296,8 @@
                               [
                                     "VERB",
                                     "VerbForm=Conv",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -9472,8 +9472,8 @@
                         "tagsets": [
                               [
                                     "VERB",
-                                    "Person=3",
-                                    "Number=Sing",
+                                    "Person[obj]=3",
+                                    "Number[obj]=Sing",
                                     "Mood=Ind",
                                     "Tense=Pres_Aor"
                               ]
@@ -9546,8 +9546,8 @@
                         "tags": [
                               "VERB",
                               "VerbForm=Conv",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -9695,8 +9695,8 @@
                         "id": "13",
                         "tags": [
                               "VERB",
-                              "Person=3",
-                              "Number=Sing",
+                              "Person[obj]=3",
+                              "Number[obj]=Sing",
                               "Mood=Ind",
                               "Tense=Pres_Aor"
                         ],
@@ -9770,8 +9770,8 @@
                         "tagsets": [
                               [
                                     "VERB",
-                                    "Person=3",
-                                    "Number=Sing"
+                                    "Person[subj]=3",
+                                    "Number[subj]=Sing"
                               ]
                         ],
                         "parent_token_index": "-",
@@ -9826,8 +9826,8 @@
                         "id": "3",
                         "tags": [
                               "VERB",
-                              "Person=3",
-                              "Number=Sing"
+                              "Person[subj]=3",
+                              "Number[subj]=Sing"
                         ],
                         "tokens": [
                               [
@@ -10022,8 +10022,8 @@
                               [
                                     "VERB",
                                     "Emphatic=Yes",
-                                    "Person=3",
-                                    "Number=Plur",
+                                    "Person[subj]=3",
+                                    "Number[subj]=Plur",
                                     "Tense=Pres_Aor"
                               ]
                         ],
@@ -10206,8 +10206,8 @@
                         "tags": [
                               "VERB",
                               "Emphatic=Yes",
-                              "Person=3",
-                              "Number=Plur",
+                              "Person[subj]=3",
+                              "Number[subj]=Plur",
                               "Tense=Pres_Aor"
                         ],
                         "tokens": [
